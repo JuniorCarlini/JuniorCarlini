@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=624d9f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Junior+Carlini;Seja+bem-vindo+ao+meu+repositório)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=624d9f&size=35&center=false&vCenter=false&width=1000&lines=Olá,+Meu+nome+é+Junior+Carlini;Seja+bem-vindo+ao+meu+repositório)](https://git.io/typing-svg)
 <img align="right" height="590em" src="https://raw.githubusercontent.com/JuniorCarlini/JuniorCarlini/30b9874ec77f67516d35b2ba15e55ee5b4062a89/image_profile.svg"/>
 <h1 align="left">Olá, me chamo Junior Carlini</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorcarlini&color=yellow" alt="Profile views" /> </p>
