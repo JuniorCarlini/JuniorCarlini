@@ -1,12 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=400&lines=Olá,+Meu+nome+é+Junior+Carlini;Seja+bem-vindo+ao+meu+repositório)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorcarlini&color=yellow" alt="Profile views" /> </p>
 <img align="right" height="590em" src="https://raw.githubusercontent.com/JuniorCarlini/JuniorCarlini/30b9874ec77f67516d35b2ba15e55ee5b4062a89/image_profile.svg"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas&size=35&duration=1200&pause=700&color=F7F7F7&multiline=true&width=600&lines=Ol%C3%A1%2C+me+chamo+J%C3%BAnior+Carlini;Seja+bem-vindo!)](https://git.io/typing-svg)
+
 
 - 🔥 Estudante de Agrocomputação no Instituto Federal De Rondônia
   
 - 🛠 Trabalho atualmente como Designer e Editor de vídeos
   
 - 💎 Linguagens que estudo: Python, MySql, C++, Dart, Flutter.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorcarlini&color=yellow" alt="top" /> </p>
 
 <!--
 
