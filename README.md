@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas&size=20&duration=1200&pause=700&color=F7F7F7&multiline=true&width=600&lines=Ol%C3%A1%2C+me+chamo+J%C3%BAnior+Carlini;Seja+bem-vindo!)](https://git.io/typing-svg)
+#Olá,
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/JuniorCarlini/JuniorCarlini/30b9874ec77f67516d35b2ba15e55ee5b4062a89/image_profile.svg"/>
 
