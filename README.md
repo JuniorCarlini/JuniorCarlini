@@ -1,6 +1,7 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/JuniorCarlini/JuniorCarlini/30b9874ec77f67516d35b2ba15e55ee5b4062a89/image_profile.svg"/>
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, me chamo Junior</h1>
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/JuniorCarlini/JuniorCarlini/30b9874ec77f67516d35b2ba15e55ee5b4062a89/image_profile.svg"/>
+
 
 
 - 🔥 Estudante de Agrocomputação no Instituto Federal De Rondônia
