@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">Softwares</h2>
+<h2 align="left">Softwares:</h2>
 
 ###
 
