@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo por meia década. <br>📚 Atualmente estou aprendendo mais sobre Django e Flutter.<br>🎓 Cusando Agrocomputação no Instituto Federal de Rondônia.</p>
+<p align="left">✨ Desenvolvendo por meia década. <br>📚 Atualmente estou aprendendo mais sobre Django e Flutter.<br>🎓 Cursando Agrocomputação no Instituto Federal de Rondônia.</p>
 
 ###
 
