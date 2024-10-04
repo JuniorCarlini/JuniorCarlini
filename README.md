@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> hello, world!
 ###
 
-<p align="left">Meu nome é Junior, tenho 21 anos e sou um desenvolvedor full-stack.</p>
+<p align="left">Meu nome é Junior, tenho 22 anos e sou um desenvolvedor full-stack.</p>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvendo por meia década. <br>📚 Atualmente estou aprendendo mais sobre Django e Flutter.<br>🎓 Cursando Agrocomputação no Instituto Federal de Rondônia.</p>
+<p align="left">📚 Atualmente estou aprendendo mais sobre Django e Flutter.<br>🎓 Cursando Agrocomputação no Instituto Federal de Rondônia.</p>
 
 ###
 
