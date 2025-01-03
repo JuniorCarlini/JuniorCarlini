@@ -62,5 +62,3 @@
 ###
 
 Veja meu curriculo [Lattes](http://lattes.cnpq.br/9443878372595455).
-
-Me envie um [email](mailto:juniorsmgks@gmail.com).
