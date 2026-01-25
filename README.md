@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo mais sobre Django e Flutter.<br>🎓 Cursando Agrocomputação no Instituto Federal de Rondônia.</p>
+<p align="left">
+🚀 Desenvolvendo sistemas web e mobile com Django, Flutter e tecnologias em tempo real.<br>
+🌱 Criando soluções digitais para o agronegócio (gestão rural, rastreabilidade, dados agrícolas).<br>
+🎓 Cursando Agrocomputação no Instituto Federal de Rondônia (IFRO).
+</p>
 
 ###
 
