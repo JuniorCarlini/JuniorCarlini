@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Junior, tenho 23 anos e sou um desenvolvedor full-stack.</p>
+<p align="left">Meu nome é Junior, sou um desenvolvedor full-stack.</p>
 
 ###
 
